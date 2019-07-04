@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstAvaliation</string>
+    <string name="tela_login">Login screen</string>
+    <string name="usuario">User</string>
+    <string name="senha">Password</string>
+    <string name="bloqueio_app">Application blocked</string>
+    <string name="tela_princ">Main screen</string>
+    <string name="tela_config">Configuration screen</string>
+    <string name="bloq_msg">This application was permanently blocked for excessive login attempts</string>
+    <string name="novo_usuario">New user</string>
+    <string name="nova_senha">New password</string>
+    <string name="conf_senha">Confirm password</string>
+    <string name="btn_confirma">Confirm</string>
+    <string name="btn_sair">Quit</string>
+    <string name="btn_config">Config</string>
+    <string name="login_erro">Incorrect user/password</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="btn_entrar">Enter</string>
+    <string name="lbl_usr">Type the username</string>
+    <string name="lbl_senha">Type the password</string>
+    <string name="lbl_novo_usr">Type the new user</string>
+    <string name="lbl_nova_senha">Type the new password</string>
+    <string name="lbl_conf_senha">Confirm the new password</string>
+    <string name="tst_erro_login">Please, type the user/password fields</string>
+    <string name="tst_campos_config">Please, fill all fields</string>
+    <string name="tst_erro_igual">The password must be match. Please, try again</string>
+    <string name="tst_sucesso_cadastro">Registred succefully</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PrimeiraAvaliacao</string>
+    <string name="tela_login">Tela de login</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="login_erro">Usuário/Senha incorreto</string>
+    <string name="bloqueio_app">Aplicação bloqueada</string>
+    <string name="tela_princ">Tela principal</string>
+    <string name="tela_config">Tela de configuração</string>
+    <string name="bloq_msg">Esta aplicação foi permanentemente bloqueada por excesso de tentativas de login.</string>
+    <string name="btn_config">Configurar</string>
+    <string name="btn_sair">Sair</string>
+    <string name="btn_confirma">Confirma</string>
+    <string name="novo_usuario">Novo usuário</string>
+    <string name="nova_senha">Nova senha</string>
+    <string name="conf_senha">Confirmar senha</string>
+    <string name="lbl_usr">Digite o usuário</string>
+    <string name="lbl_senha">Digite a senha</string>
+    <string name="lbl_novo_usr">Digite o novo usuário</string>
+    <string name="lbl_nova_senha">Digite a nova senha</string>
+    <string name="lbl_conf_senha">Confirme a nova senha</string>
+    <string name="tst_erro_login">Por favor, digite os campos usuário/senha</string>
+    <string name="tst_campos_config">Por favor, preencha todos os campos</string>
+    <string name="tst_erro_igual">As senhas devem ser iguais. Por favor, tente novamente</string>
+    <string name="tst_sucesso_cadastro">Cadastro realizado com sucesso</string>
+</resources>
